@@ -1,0 +1,145 @@
+#u44281
+{
+	border-color: transparent;
+	border-width: 0px;
+	-pie-background: rgba(251,176,59,0.5);
+}
+
+#u44283
+{
+	border-color: transparent;
+	border-width: 0px;
+	-pie-background: rgba(41,171,226,0.5);
+}
+
+#u44282
+{
+	-pie-background: rgba(0,0,0,0.5);
+}
+
+@media (min-width: 961px)
+{
+	#u44281
+	{
+		background-color: #FDD79D;
+		background-color: rgba(251,176,59,0.5);
+	}
+
+	#u44283
+	{
+		background-color: #94D5F0;
+		background-color: rgba(41,171,226,0.5);
+	}
+
+	#u44282
+	{
+		background-color: #7F7F7F;
+		background-color: rgba(0,0,0,0.5);
+	}
+}
+
+@media (min-width: 769px) and (max-width: 960px)
+{
+	#u44281
+	{
+		background-color: #FDD79D;
+		background-color: rgba(251,176,59,0.5);
+	}
+
+	#u44283
+	{
+		background-color: #94D5F0;
+		background-color: rgba(41,171,226,0.5);
+	}
+
+	#u44282
+	{
+		background-color: #7F7F7F;
+		background-color: rgba(0,0,0,0.5);
+	}
+}
+
+@media (min-width: 641px) and (max-width: 768px)
+{
+	#u44281
+	{
+		background-color: #FDD79D;
+		background-color: rgba(251,176,59,0.5);
+	}
+
+	#u44283
+	{
+		background-color: #94D5F0;
+		background-color: rgba(41,171,226,0.5);
+	}
+
+	#u44282
+	{
+		background-color: #7F7F7F;
+		background-color: rgba(0,0,0,0.5);
+	}
+}
+
+@media (min-width: 481px) and (max-width: 640px)
+{
+	#u44281
+	{
+		background-color: #FDD79D;
+		background-color: rgba(251,176,59,0.5);
+	}
+
+	#u44283
+	{
+		background-color: #94D5F0;
+		background-color: rgba(41,171,226,0.5);
+	}
+
+	#u44282
+	{
+		background-color: #7F7F7F;
+		background-color: rgba(0,0,0,0.5);
+	}
+}
+
+@media (min-width: 321px) and (max-width: 480px)
+{
+	#u44281
+	{
+		background-color: #FDD79D;
+		background-color: rgba(251,176,59,0.5);
+	}
+
+	#u44283
+	{
+		background-color: #94D5F0;
+		background-color: rgba(41,171,226,0.5);
+	}
+
+	#u44282
+	{
+		background-color: #7F7F7F;
+		background-color: rgba(0,0,0,0.5);
+	}
+}
+
+@media (max-width: 320px)
+{
+	#u44281
+	{
+		background-color: #FDD79D;
+		background-color: rgba(251,176,59,0.5);
+	}
+
+	#u44283
+	{
+		background-color: #94D5F0;
+		background-color: rgba(41,171,226,0.5);
+	}
+
+	#u44282
+	{
+		background-color: #7F7F7F;
+		background-color: rgba(0,0,0,0.5);
+	}
+}
+
