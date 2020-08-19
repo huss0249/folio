@@ -1,0 +1,365 @@
+<manifest alg="2" build="2015.1.2.344" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" ftp_hostname="sftp://7pixelbz.ca" ftp_rootfolder="//ahmed" exportTarget="FTP" domain="ahmed.7pixelbz.ca" resolutions="1x,2x" timestamp="1465016966494">
+  <folder name="css">
+    <file name="site_global.css" crc="131700929"/>
+    <file name="taketori.css" crc="3949100683" ref="portfolio"/>
+    <file name="master_a-master.css" crc="3763656463" ref="experience:index:contact:portfolio:links"/>
+    <file name="nomq_preview_master_a-master.css" crc="4063207363" ref="experience:index:contact:portfolio:links"/>
+    <file name="experience.css" crc="4229148861" ref="experience"/>
+    <file name="nomq_experience.css" crc="221200938" ref="experience"/>
+    <file name="index.css" crc="334118171" ref="index"/>
+    <file name="nomq_index.css" crc="258408522" ref="index"/>
+    <file name="contact.css" crc="4011598023" ref="contact"/>
+    <file name="nomq_contact.css" crc="3848315481" ref="contact"/>
+    <file name="portfolio.css" crc="108615973" ref="portfolio"/>
+    <file name="nomq_portfolio.css" crc="4238839369" ref="portfolio"/>
+    <file name="links.css" crc="153439227" ref="links"/>
+    <file name="nomq_links.css" crc="211336526" ref="links"/>
+  </folder>
+  <folder name="assets">
+    <folder name="clouds_eav2">
+      <folder name="images">
+        <file name="cloud.png" crc="3961756854" mt="1463804710000"/>
+        <file name="7Pixel.svg" crc="4279845371" mt="1463804710000"/>
+        <file name="X.svg" crc="4108007920" mt="1463804710000"/>
+      </folder>
+      <file name="transparent.png" crc="431561817" mt="1463804710000"/>
+      <file name="Clouds_EAv2_edge.js" crc="141848124" mt="1463804710000"/>
+      <file name="Clouds_EAv2.html" crc="249961058" mt="1463804710000"/>
+    </folder>
+    <file name="ah.mp4" crc="3918963763" seo="true" mt="1465008670000"/>
+    <file name="poster.jpg" crc="4260171483" seo="true" mt="1464195520000"/>
+    <file name="thinkrf.mp4" crc="432280220" seo="true" mt="1464160365000"/>
+    <file name="thinkrf_datasheet_v.pdf" crc="4175773391" seo="true" mt="1464152997000"/>
+    <file name="thinkrf_white.mp4" crc="479682378" seo="true" mt="1463877744000"/>
+    <file name="thinkrf-ad_v3-01.jpg" crc="475024907" seo="true" mt="1464571913000"/>
+    <file name="thinkrf-animate_v5.exe" crc="3796813233" seo="true" mt="1464453709000"/>
+    <file name="banner_mac.zip" crc="169837790" seo="true" mt="1464581820000"/>
+    <file name="banner_win.zip" crc="256637059" seo="true" mt="1464453928000"/>
+    <file name="thinkrf-animate_v5.swf" crc="3811083312" seo="true" mt="1464581709000"/>
+    <file name="clouds_eav2.oam" crc="383344241" seo="true" mt="1463804710000"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="207176553" ref="index:portfolio:experience:contact:links"/>
+    <file name="museutils.js" crc="3790713428" ref="index:portfolio:experience:contact:links"/>
+    <file name="whatinput.js" crc="84559013" ref="index:portfolio:experience:contact:links"/>
+    <file name="jquery.watch.js" crc="4244854265" ref="index:portfolio:experience:contact:links"/>
+    <file name="pie.js" crc="3827607177" ref="index:portfolio:experience"/>
+    <file name="jquery.musemenu.js" crc="238543590" ref="index:portfolio:experience:contact:links"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="3918880840" ref="index:contact"/>
+    <file name="webpro.js" crc="329496574" ref="index:portfolio:experience:contact:links"/>
+    <file name="musewpdisclosure.js" crc="4234230767" ref="index:portfolio:experience:contact:links"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index:portfolio:experience:contact:links"/>
+    <file name="jquery.museresponsive.js" crc="3895133147" ref="index:portfolio:experience:contact:links"/>
+    <file name="musewpslideshow.js" crc="394033048" ref="portfolio"/>
+    <file name="jquery.museoverlay.js" crc="4265131668" ref="portfolio"/>
+    <file name="touchswipe.js" crc="497316881" ref="portfolio"/>
+    <file name="taketori.js" crc="307918890" ref="portfolio"/>
+    <file name="form_check.php" crc="3805695515" ref="contact"/>
+    <file name="form_throttle.php" crc="3802629389" ref="contact"/>
+    <file name="form_process.php" crc="54267062" ref="contact"/>
+    <file name="form-u1649.php" crc="3957259100" ref="contact"/>
+  </folder>
+  <folder name="images">
+    <file name="home-favicon.ico" crc="277189286" ref="index"/>
+    <file name="ahnstyle.svg" crc="398244122" ref="index:portfolio:experience:contact:links"/>
+    <file name="ahnstyle_poster_.png" crc="4120496957" ref="index"/>
+    <file name="canvaspainting-u339-fr.jpg" crc="3905996313" ref="index"/>
+    <file name="canvaspainting-u339-fr_2x.jpg" crc="235887178" ref="index"/>
+    <file name="canvaspainting-u339-fr2.jpg" crc="118084331" ref="index"/>
+    <file name="canvaspainting-u339-fr_2x2.jpg" crc="166601841" ref="index"/>
+    <file name="ahnstyle_poster_u48902.png" crc="4120496957" ref="index:contact"/>
+    <file name="canvaspainting.jpg" crc="332368184" ref="index"/>
+    <file name="canvaspainting_2x.jpg" crc="4176937827" ref="index"/>
+    <file name="blank.gif" crc="4208392903" ref="index:portfolio:experience:contact:links"/>
+    <file name="portfolio-favicon.ico" crc="277189286" ref="portfolio"/>
+    <file name="brand_04.jpg" crc="369664350" seo="true" ref="portfolio"/>
+    <file name="brand_05.jpg" crc="4099261980" seo="true" ref="portfolio"/>
+    <file name="brand_06.jpg" crc="298604034" seo="true" ref="portfolio"/>
+    <file name="brand_08.jpg" crc="478013950" seo="true" ref="portfolio"/>
+    <file name="brand_09.jpg" crc="3940695934" seo="true" ref="portfolio"/>
+    <file name="brand_11.jpg" crc="1908590" seo="true" ref="portfolio"/>
+    <file name="brand_12.jpg" crc="3978487889" seo="true" ref="portfolio"/>
+    <file name="brand_13.jpg" crc="432163381" seo="true" ref="portfolio"/>
+    <file name="brand_14.jpg" crc="4079622996" seo="true" ref="portfolio"/>
+    <file name="brand_15.jpg" crc="231008728" seo="true" ref="portfolio"/>
+    <file name="brand_16.jpg" crc="156520345" seo="true" ref="portfolio"/>
+    <file name="brand_17.jpg" crc="4142859837" seo="true" ref="portfolio"/>
+    <file name="brand_18.jpg" crc="201130185" seo="true" ref="portfolio"/>
+    <file name="brand_19.jpg" crc="4092633361" seo="true" ref="portfolio"/>
+    <file name="brand_20.jpg" crc="3987412672" seo="true" ref="portfolio"/>
+    <file name="brand_21.jpg" crc="388423926" seo="true" ref="portfolio"/>
+    <file name="brand_22.jpg" crc="4000100428" seo="true" ref="portfolio"/>
+    <file name="brand_23.jpg" crc="29607760" seo="true" ref="portfolio"/>
+    <file name="brand_24.jpg" crc="160797855" seo="true" ref="portfolio"/>
+    <file name="brand_25.jpg" crc="4212401873" seo="true" ref="portfolio"/>
+    <file name="brand_26.jpg" crc="4038254742" seo="true" ref="portfolio"/>
+    <file name="brand_27.jpg" crc="4040717807" seo="true" ref="portfolio"/>
+    <file name="brand_28.jpg" crc="526457235" seo="true" ref="portfolio"/>
+    <file name="brand_29.jpg" crc="161029324" seo="true" ref="portfolio"/>
+    <file name="brand_30.jpg" crc="249321713" seo="true" ref="portfolio"/>
+    <file name="brand_31.jpg" crc="473776622" seo="true" ref="portfolio"/>
+    <file name="brand_32.jpg" crc="208996714" seo="true" ref="portfolio"/>
+    <file name="brand_33.jpg" crc="4049127258" seo="true" ref="portfolio"/>
+    <file name="brand_34.jpg" crc="23850607" seo="true" ref="portfolio"/>
+    <file name="brand_35.jpg" crc="3943186254" seo="true" ref="portfolio"/>
+    <file name="brand_36.jpg" crc="186132745" seo="true" ref="portfolio"/>
+    <file name="brand_37.jpg" crc="3980098647" seo="true" ref="portfolio"/>
+    <file name="brand_38.jpg" crc="3959624568" seo="true" ref="portfolio"/>
+    <file name="brand_39.jpg" crc="9504948" seo="true" ref="portfolio"/>
+    <file name="brand_40.jpg" crc="3806930523" seo="true" ref="portfolio"/>
+    <file name="brand_41.png" crc="4098884150" seo="true" ref="portfolio"/>
+    <file name="brand_43.jpg" crc="223499861" seo="true" ref="portfolio"/>
+    <file name="brand_44.jpg" crc="3892921713" seo="true" ref="portfolio"/>
+    <file name="brand_73.jpg" crc="4130549828" seo="true" ref="portfolio"/>
+    <file name="brand_74.jpg" crc="4225719905" seo="true" ref="portfolio"/>
+    <file name="brand_75.jpg" crc="488318778" seo="true" ref="portfolio"/>
+    <file name="brand_76.jpg" crc="4241889906" seo="true" ref="portfolio"/>
+    <file name="brand_77.jpg" crc="520243598" seo="true" ref="portfolio"/>
+    <file name="brand_79.jpg" crc="3786132699" seo="true" ref="portfolio"/>
+    <file name="brand_80.jpg" crc="3807655180" seo="true" ref="portfolio"/>
+    <file name="brand_81.jpg" crc="132061673" seo="true" ref="portfolio"/>
+    <file name="brand_82.jpg" crc="417703588" seo="true" ref="portfolio"/>
+    <file name="brand_84.jpg" crc="4059515174" seo="true" ref="portfolio"/>
+    <file name="brand_85.jpg" crc="290043602" seo="true" ref="portfolio"/>
+    <file name="brand_86.jpg" crc="3948145754" seo="true" ref="portfolio"/>
+    <file name="brand_87.jpg" crc="4198134096" seo="true" ref="portfolio"/>
+    <file name="brand_88.jpg" crc="429342324" seo="true" ref="portfolio"/>
+    <file name="brand_89.jpg" crc="121762006" seo="true" ref="portfolio"/>
+    <file name="brand_90.jpg" crc="431792238" seo="true" ref="portfolio"/>
+    <file name="brand_91.jpg" crc="117576345" seo="true" ref="portfolio"/>
+    <file name="brand_93.jpg" crc="9082088" seo="true" ref="portfolio"/>
+    <file name="brand_94.jpg" crc="3904027091" seo="true" ref="portfolio"/>
+    <file name="brand_95.jpg" crc="527358396" seo="true" ref="portfolio"/>
+    <file name="brand_96.jpg" crc="231069011" seo="true" ref="portfolio"/>
+    <file name="imacscreens-mockup-7x.jpg" crc="456740831" seo="true" ref="portfolio"/>
+    <file name="imacscreens-mockup-animalh.jpg" crc="423082289" seo="true" ref="portfolio"/>
+    <file name="imacscreens-mockup-argan.jpg" crc="4211588944" seo="true" ref="portfolio"/>
+    <file name="imacscreens-mockup-argan2.jpg" crc="4275444922" seo="true" ref="portfolio"/>
+    <file name="imacscreens-mockup-q80.jpg" crc="408511603" seo="true" ref="portfolio"/>
+    <file name="imacscreens-mockup-saudi.jpg" crc="188664213" seo="true" ref="portfolio"/>
+    <file name="imacscreens-mockup-zaki.jpg" crc="4185284810" seo="true" ref="portfolio"/>
+    <file name="sis-bifold.jpg" crc="422144913" seo="true" ref="portfolio"/>
+    <file name="sqbkmockup-abc_ar.jpg" crc="195715174" seo="true" ref="portfolio"/>
+    <file name="sqbkmockup-abc-books.jpg" crc="500423035" seo="true" ref="portfolio"/>
+    <file name="sqbkmockup-abc-books4.jpg" crc="3987771517" seo="true" ref="portfolio"/>
+    <file name="sqbkmockup-abc-profile.jpg" crc="4225702706" seo="true" ref="portfolio"/>
+    <file name="sqbkmockup-abc-profile_v2.jpg" crc="353884396" seo="true" ref="portfolio"/>
+    <file name="sqbkmockup-moe.jpg" crc="4213937596" seo="true" ref="portfolio"/>
+    <file name="sqbkmockup-moe_ar-jg.jpg" crc="3939731676" seo="true" ref="portfolio"/>
+    <file name="sqbkmockup-moe_v2.jpg" crc="3923522065" seo="true" ref="portfolio"/>
+    <file name="sq-mag.jpg" crc="475273799" seo="true" ref="portfolio"/>
+    <file name="streetbnr-1.jpg" crc="4216861973" seo="true" ref="portfolio"/>
+    <file name="streetbnr-2.jpg" crc="362988536" seo="true" ref="portfolio"/>
+    <file name="tis-bifold.jpg" crc="206083237" seo="true" ref="portfolio"/>
+    <file name="loading.gif" crc="3815509949" ref="portfolio"/>
+    <file name="imacscreens-mockup-1.jpg" crc="3981092850" seo="true" ref="portfolio"/>
+    <file name="imacscreens-mockup-2.jpg" crc="4099131528" seo="true" ref="portfolio"/>
+    <file name="imacscreens-mockup-icdl.jpg" crc="4223816926" seo="true" ref="portfolio"/>
+    <file name="imacscreens-mockup-lassa.jpg" crc="3801352006" seo="true" ref="portfolio"/>
+    <file name="imacscreens-mockup-moe.jpg" crc="373064195" seo="true" ref="portfolio"/>
+    <file name="imacscreens-mockup-moe2.jpg" crc="395378837" seo="true" ref="portfolio"/>
+    <file name="imacscreens-mockup-ocsc.jpg" crc="4190936" seo="true" ref="portfolio"/>
+    <file name="imacscreens-mockup-thanawyea.jpg" crc="513246778" seo="true" ref="portfolio"/>
+    <file name="imacscreens-mockup-wasat.jpg" crc="163179720" seo="true" ref="portfolio"/>
+    <file name="mmedia_01.jpg" crc="4192386346" seo="true" ref="portfolio"/>
+    <file name="mmedia_02.jpg" crc="532008295" seo="true" ref="portfolio"/>
+    <file name="mmedia_03.jpg" crc="4185890420" seo="true" ref="portfolio"/>
+    <file name="mmedia_04.jpg" crc="3909484998" seo="true" ref="portfolio"/>
+    <file name="mmedia_05.jpg" crc="3918323933" seo="true" ref="portfolio"/>
+    <file name="mmedia_06.jpg" crc="3900027836" seo="true" ref="portfolio"/>
+    <file name="mmedia_07.jpg" crc="4047787649" seo="true" ref="portfolio"/>
+    <file name="mmedia_08.jpg" crc="142973064" seo="true" ref="portfolio"/>
+    <file name="mmedia_09.jpg" crc="3925167340" seo="true" ref="portfolio"/>
+    <file name="mmedia_10.jpg" crc="399311586" seo="true" ref="portfolio"/>
+    <file name="mmedia_11.jpg" crc="185691908" seo="true" ref="portfolio"/>
+    <file name="mmedia_12.jpg" crc="204597556" seo="true" ref="portfolio"/>
+    <file name="mmedia_13.jpg" crc="247991606" seo="true" ref="portfolio"/>
+    <file name="mmedia_14.jpg" crc="4056960248" seo="true" ref="portfolio"/>
+    <file name="mmedia_15.jpg" crc="319195003" seo="true" ref="portfolio"/>
+    <file name="mmedia_16.jpg" crc="4217577929" seo="true" ref="portfolio"/>
+    <file name="mmedia_17.jpg" crc="3933155325" seo="true" ref="portfolio"/>
+    <file name="event_01.jpg" crc="4137295787" seo="true" ref="portfolio"/>
+    <file name="event_02.jpg" crc="357585850" seo="true" ref="portfolio"/>
+    <file name="event_03.jpg" crc="3797603277" seo="true" ref="portfolio"/>
+    <file name="event_04.jpg" crc="434268680" seo="true" ref="portfolio"/>
+    <file name="event_05.jpg" crc="4129097987" seo="true" ref="portfolio"/>
+    <file name="event_06.jpg" crc="3994006815" seo="true" ref="portfolio"/>
+    <file name="event_07.jpg" crc="275749664" seo="true" ref="portfolio"/>
+    <file name="event_08.jpg" crc="372601494" seo="true" ref="portfolio"/>
+    <file name="event_09.jpg" crc="245531771" seo="true" ref="portfolio"/>
+    <file name="event_10.jpg" crc="305323812" seo="true" ref="portfolio"/>
+    <file name="event_11.jpg" crc="354567124" seo="true" ref="portfolio"/>
+    <file name="event_12.jpg" crc="4158488835" seo="true" ref="portfolio"/>
+    <file name="event_13.jpg" crc="112048868" seo="true" ref="portfolio"/>
+    <file name="event_14.jpg" crc="105379933" seo="true" ref="portfolio"/>
+    <file name="event_15.jpg" crc="4015458380" seo="true" ref="portfolio"/>
+    <file name="event_16.jpg" crc="4167698242" seo="true" ref="portfolio"/>
+    <file name="event_17.jpg" crc="3806279450" seo="true" ref="portfolio"/>
+    <file name="event_18.jpg" crc="371590099" seo="true" ref="portfolio"/>
+    <file name="event_19.jpg" crc="4064147935" seo="true" ref="portfolio"/>
+    <file name="imacscreens-mockup-conf.jpg" crc="306366631" seo="true" ref="portfolio"/>
+    <file name="imacscreens-mockup-gitex.jpg" crc="3853137244" seo="true" ref="portfolio"/>
+    <file name="canvas_hw-1.jpg" crc="326985930" seo="true" ref="portfolio"/>
+    <file name="canvas_hw-2.jpg" crc="4004435976" seo="true" ref="portfolio"/>
+    <file name="canvas_hw-3.jpg" crc="536819910" seo="true" ref="portfolio"/>
+    <file name="canvas_hw-4.jpg" crc="438482268" seo="true" ref="portfolio"/>
+    <file name="canvas_hw-5.jpg" crc="461660930" seo="true" ref="portfolio"/>
+    <file name="canvas_hw-6.jpg" crc="379750383" seo="true" ref="portfolio"/>
+    <file name="canvas_hw-7.jpg" crc="33997784" seo="true" ref="portfolio"/>
+    <file name="canvas_hw-8.jpg" crc="3921979640" seo="true" ref="portfolio"/>
+    <file name="canvas_v-1.jpg" crc="63050001" seo="true" ref="portfolio"/>
+    <file name="canvas_v-2.jpg" crc="197344628" seo="true" ref="portfolio"/>
+    <file name="canvas_v-3.jpg" crc="460920658" seo="true" ref="portfolio"/>
+    <file name="ipadpro-sketch.jpg" crc="3791870368" seo="true" ref="portfolio"/>
+    <file name="scenic_01.jpg" crc="4099727085" seo="true" ref="portfolio"/>
+    <file name="scenic_02.jpg" crc="3790567057" seo="true" ref="portfolio"/>
+    <file name="scenic_03.jpg" crc="310315781" seo="true" ref="portfolio"/>
+    <file name="scenic_04.jpg" crc="3922601500" seo="true" ref="portfolio"/>
+    <file name="scenic_05.jpg" crc="4008955062" seo="true" ref="portfolio"/>
+    <file name="scenic_06.jpg" crc="3910333543" seo="true" ref="portfolio"/>
+    <file name="scenic_07.jpg" crc="3910286108" seo="true" ref="portfolio"/>
+    <file name="scenic_08.jpg" crc="306638967" seo="true" ref="portfolio"/>
+    <file name="scenic_09.jpg" crc="4136985152" seo="true" ref="portfolio"/>
+    <file name="scenic_10.jpg" crc="3884529361" seo="true" ref="portfolio"/>
+    <file name="scenic_11.jpg" crc="481157776" seo="true" ref="portfolio"/>
+    <file name="scenic_12.jpg" crc="319001039" seo="true" ref="portfolio"/>
+    <file name="scenic_13.jpg" crc="96758724" seo="true" ref="portfolio"/>
+    <file name="scenic_14.jpg" crc="4127374341" seo="true" ref="portfolio"/>
+    <file name="scenic_15.jpg" crc="468857488" seo="true" ref="portfolio"/>
+    <file name="scenic_16.jpg" crc="77805475" seo="true" ref="portfolio"/>
+    <file name="scenic_17.jpg" crc="3909173099" seo="true" ref="portfolio"/>
+    <file name="scenic_18.jpg" crc="355569915" seo="true" ref="portfolio"/>
+    <file name="scenic_19.jpg" crc="4220795449" seo="true" ref="portfolio"/>
+    <file name="scenic_20.jpg" crc="4122027037" seo="true" ref="portfolio"/>
+    <file name="scenic_21.jpg" crc="160606058" seo="true" ref="portfolio"/>
+    <file name="scenic_22.jpg" crc="388344816" seo="true" ref="portfolio"/>
+    <file name="scenic_23.jpg" crc="367448109" seo="true" ref="portfolio"/>
+    <file name="scenic_24.jpg" crc="3772200925" seo="true" ref="portfolio"/>
+    <file name="scenic_25.jpg" crc="4285605911" seo="true" ref="portfolio"/>
+    <file name="sketch.jpg" crc="403552520" seo="true" ref="portfolio"/>
+    <file name="sketch-1.jpg" crc="333533826" seo="true" ref="portfolio"/>
+    <file name="sketch-2.jpg" crc="3884124834" seo="true" ref="portfolio"/>
+    <file name="experience-favicon.ico" crc="277189286" ref="experience"/>
+    <file name="expertise_brand150x150.png" crc="295120343" seo="true" ref="experience"/>
+    <file name="expertise_brand150x150_2x.png" crc="87626897" seo="true" ref="experience"/>
+    <file name="expertise_design150x150.png" crc="3765571461" seo="true" ref="experience"/>
+    <file name="expertise_design150x150_2x.png" crc="4073966953" seo="true" ref="experience"/>
+    <file name="expertise_illus150x150.png" crc="4164643091" seo="true" ref="experience"/>
+    <file name="expertise_illus150x150_2x.png" crc="70057489" seo="true" ref="experience"/>
+    <file name="expertise_photo150x150.png" crc="319091041" seo="true" ref="experience"/>
+    <file name="expertise_photo150x150_2x.png" crc="450938097" seo="true" ref="experience"/>
+    <file name="expertise_brand.png" crc="3853777342" seo="true" ref="experience"/>
+    <file name="expertise_brand_2x.png" crc="403268531" seo="true" ref="experience"/>
+    <file name="expertise_design.png" crc="47007310" seo="true" ref="experience"/>
+    <file name="expertise_design_2x.png" crc="4284576381" seo="true" ref="experience"/>
+    <file name="expertise_illus.png" crc="106703662" seo="true" ref="experience"/>
+    <file name="expertise_illus_2x.png" crc="4162161232" seo="true" ref="experience"/>
+    <file name="expertise_photo.png" crc="220998148" seo="true" ref="experience"/>
+    <file name="expertise_photo_2x.png" crc="4133072845" seo="true" ref="experience"/>
+    <file name="expertise_brand124x124.png" crc="4108106464" seo="true" ref="experience"/>
+    <file name="expertise_brand124x124_2x.png" crc="222342388" seo="true" ref="experience"/>
+    <file name="expertise_design124x124.png" crc="390639690" seo="true" ref="experience"/>
+    <file name="expertise_design124x124_2x.png" crc="381134618" seo="true" ref="experience"/>
+    <file name="expertise_illus124x124.png" crc="3802084415" seo="true" ref="experience"/>
+    <file name="expertise_illus124x124_2x.png" crc="518822461" seo="true" ref="experience"/>
+    <file name="expertise_photo124x124.png" crc="401341888" seo="true" ref="experience"/>
+    <file name="expertise_photo124x124_2x.png" crc="4120337833" seo="true" ref="experience"/>
+    <file name="a-master-favicon.ico" crc="277189286" ref="contact"/>
+    <file name="u1661-17.png" crc="5038916" ref="contact"/>
+    <file name="u1661-17-r.png" crc="5038916" ref="contact"/>
+    <file name="u1661-17-m.png" crc="3799732932" ref="contact"/>
+    <file name="u1661-17-fs.png" crc="4039195221" ref="contact"/>
+    <file name="u1661-17_2x.png" crc="4070035471" ref="contact"/>
+    <file name="u1661-17-r_2x.png" crc="4070035471" ref="contact"/>
+    <file name="u1661-17-m_2x.png" crc="487877958" ref="contact"/>
+    <file name="u1661-17-fs_2x.png" crc="4264956348" ref="contact"/>
+    <file name="u1661-172.png" crc="5038916" ref="contact"/>
+    <file name="u1661-17-r2.png" crc="5038916" ref="contact"/>
+    <file name="u1661-17-m2.png" crc="3799732932" ref="contact"/>
+    <file name="u1661-17-fs2.png" crc="4039195221" ref="contact"/>
+    <file name="u1661-17_2x2.png" crc="4070035471" ref="contact"/>
+    <file name="u1661-17-r_2x2.png" crc="4070035471" ref="contact"/>
+    <file name="u1661-17-m_2x2.png" crc="487877958" ref="contact"/>
+    <file name="u1661-17-fs_2x2.png" crc="4264956348" ref="contact"/>
+    <file name="u1661-173.png" crc="5038916" ref="contact"/>
+    <file name="u1661-17-r3.png" crc="5038916" ref="contact"/>
+    <file name="u1661-17-m3.png" crc="3799732932" ref="contact"/>
+    <file name="u1661-17-fs3.png" crc="4039195221" ref="contact"/>
+    <file name="u1661-17_2x3.png" crc="4070035471" ref="contact"/>
+    <file name="u1661-17-r_2x3.png" crc="4070035471" ref="contact"/>
+    <file name="u1661-17-m_2x3.png" crc="487877958" ref="contact"/>
+    <file name="u1661-17-fs_2x3.png" crc="4264956348" ref="contact"/>
+    <file name="u1661-174.png" crc="5038916" ref="contact"/>
+    <file name="u1661-17-r4.png" crc="5038916" ref="contact"/>
+    <file name="u1661-17-m4.png" crc="3799732932" ref="contact"/>
+    <file name="u1661-17-fs4.png" crc="4039195221" ref="contact"/>
+    <file name="u1661-17_2x4.png" crc="4070035471" ref="contact"/>
+    <file name="u1661-17-r_2x4.png" crc="4070035471" ref="contact"/>
+    <file name="u1661-17-m_2x4.png" crc="487877958" ref="contact"/>
+    <file name="u1661-17-fs_2x4.png" crc="4264956348" ref="contact"/>
+    <file name="u1661-175.png" crc="5038916" ref="contact"/>
+    <file name="u1661-17-r5.png" crc="5038916" ref="contact"/>
+    <file name="u1661-17-m5.png" crc="3799732932" ref="contact"/>
+    <file name="u1661-17-fs5.png" crc="4039195221" ref="contact"/>
+    <file name="u1661-17_2x5.png" crc="4070035471" ref="contact"/>
+    <file name="u1661-17-r_2x5.png" crc="4070035471" ref="contact"/>
+    <file name="u1661-17-m_2x5.png" crc="487877958" ref="contact"/>
+    <file name="u1661-17-fs_2x5.png" crc="4264956348" ref="contact"/>
+  </folder>
+  <file name="index.html" crc="106105160" seo="true" mt="1465016812023" redirect="true"/>
+  <file name="portfolio.html" crc="227069688" seo="true" mt="1465016812023" redirect="true"/>
+  <file name="experience.html" crc="4144445769" seo="true" mt="1465016812023" redirect="true"/>
+  <file name="contact.html" crc="494044466" seo="true" mt="1465016812023" redirect="true"/>
+  <file name="links.html" crc="32493111" seo="true" mt="1465016812023" redirect="true"/>
+  <site>
+    <asset filename="ah.mp4" muse_href="upload:U30458"/>
+    <asset filename="poster.jpg" muse_href="upload:U56005"/>
+    <asset filename="thinkrf.mp4" muse_href="upload:U56017"/>
+    <asset filename="thinkrf_datasheet_v.pdf" muse_href="upload:U56019"/>
+    <asset filename="thinkrf_white.mp4" muse_href="upload:U56021"/>
+    <asset filename="thinkrf-ad_v3-01.jpg" muse_href="upload:U56023"/>
+    <asset filename="thinkrf-animate_v5.exe" muse_href="upload:U56025"/>
+    <asset filename="banner_mac.zip" muse_href="upload:U58546"/>
+    <asset filename="banner_win.zip" muse_href="upload:U58548"/>
+    <asset filename="thinkrf-animate_v5.swf" muse_href="upload:U59785"/>
+    <asset filename="clouds_eav2.oam" muse_href="upload:U62275"/>
+  </site>
+  <renditions>
+    <rendition device="desktop">
+      <page name="Home" filename="index.html" muse_href="page:U93" master="U72">
+        <breakpoint uid="U3075" maxwidth="640" minwidth="0" squishy="true"/>
+        <breakpoint uid="U2205" maxwidth="760" minwidth="641" squishy="true"/>
+        <breakpoint uid="U83" maxwidth="1280" minwidth="761" squishy="true"/>
+      </page>
+      <masterPage name="A-Master" master="U62" uid="U72">
+        <breakpoint uid="U4354" maxwidth="640" minwidth="0" squishy="true"/>
+        <breakpoint uid="U1929" maxwidth="760" minwidth="641" squishy="true"/>
+        <breakpoint uid="U73" maxwidth="1280" minwidth="761" squishy="true"/>
+      </masterPage>
+      <masterPage name="None" master="null" uid="U62">
+        <breakpoint uid="U63" maxwidth="960" minwidth="0" squishy="true"/>
+      </masterPage>
+      <page name="Portfolio" filename="portfolio.html" muse_href="page:U122" master="U72">
+        <breakpoint uid="U116" maxwidth="1280" minwidth="0" squishy="true"/>
+        <anchor name="Branding" html_id="branding" muse_href="anchor:U109:U43581" includeInBPs="U116"/>
+        <anchor name="Multimedia" html_id="multimedia" muse_href="anchor:U109:U43584" includeInBPs="U116"/>
+        <anchor name="Event" html_id="event" muse_href="anchor:U109:U43587" includeInBPs="U116"/>
+        <anchor name="Scenic" html_id="scenic" muse_href="anchor:U109:U43590" includeInBPs="U116"/>
+      </page>
+      <page name="Experience" filename="experience.html" muse_href="page:U136" master="U72">
+        <breakpoint uid="U3219" maxwidth="640" minwidth="0" squishy="true"/>
+        <breakpoint uid="U2562" maxwidth="1088" minwidth="641" squishy="true"/>
+        <breakpoint uid="U127" maxwidth="1280" minwidth="1089" squishy="true"/>
+      </page>
+      <page name="Contact" filename="contact.html" muse_href="page:U150" master="U72">
+        <breakpoint uid="U3598" maxwidth="530" minwidth="0" squishy="true"/>
+        <breakpoint uid="U3568" maxwidth="640" minwidth="531" squishy="true"/>
+        <breakpoint uid="U3464" maxwidth="920" minwidth="641" squishy="true"/>
+        <breakpoint uid="U145" maxwidth="1280" minwidth="921" squishy="true"/>
+      </page>
+      <page name="LINKS" filename="links.html" muse_href="page:U30320" master="U72">
+        <breakpoint uid="U30286" maxwidth="1280" minwidth="0" squishy="true"/>
+      </page>
+    </rendition>
+  </renditions>
+</manifest>
